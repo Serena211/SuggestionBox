@@ -1,1 +1,1 @@
-1.Creating An App Outline
+**Suggestion Box** is designed for Student's Clubs, which launch a lot of activities. The organizer can propose a suggestion for a special event, then their members can anonymous comment the suggestion.
